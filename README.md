@@ -9,6 +9,7 @@
 ## 🎯 Hackathon Project
 
 Built for the **AWS AI Agent Global Hackathon** - demonstrating autonomous AI agents using Amazon Bedrock AgentCore, Claude 3, and AWS services.
+<img width="899" height="602" alt="image" src="https://github.com/user-attachments/assets/39dc5297-f83a-4187-b2c6-bb2df7dad166" />
 
 ## ✨ Features
 
